@@ -14,7 +14,7 @@ First choose the world. The mapping was done in 2 of 4 existing worlds.
   - The kitchen dining room : 
 [![The kitchen dining room](/pics/Kitchen_dining_room.png)]
   - My_world : 
-[![My_world](/pics/custom world.png)]
+[![My_world](/pics/Custom_world.png)]
 
 To choose wich world replace the name of the world file in the the world.launch document 
 
@@ -27,7 +27,7 @@ Then choose the robot's model by replacing the name of the wanted mode xarco fil
 ```
 The model used is called My_bot and you can find it's urdf files in the urdf folder. Add your own urdf files to use your own customized model. 
 
-[![My_bot](/pics/Custum robot.png)]
+[![My_bot](/pics/Custum_robot.png)]
 
 # Usage 
 
