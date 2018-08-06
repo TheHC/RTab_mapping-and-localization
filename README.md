@@ -54,4 +54,5 @@ roslaunch slam_project teleop.launch
 The grid map and 3D map can be found in by visualizating the rtabmp output : 
 ```
 rtabmap-databaseViewer ~/.ros/rtabmap.db
+```
 [![map](/pics/Custom_env_map.png)]
