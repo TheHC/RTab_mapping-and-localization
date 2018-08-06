@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     goal.target_pose.header.frame_id = "map";
     goal.target_pose.header.stamp = ros::Time::now();
 
-    // Do NOT modify the following for final submission.
+ 
     goal.target_pose.pose.position.x = 0.995;
     goal.target_pose.pose.position.y = -2.99;
 
