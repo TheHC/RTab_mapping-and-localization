@@ -27,7 +27,7 @@ Then choose the robot's model by replacing the name of the wanted mode xarco fil
 ```
 The model used is called My_bot and you can find it's urdf files in the urdf folder. Add your own urdf files to use your own customized model. 
 
-[![My_bot](/pics/Custum_robot.png)]
+[![My_bot](/pics/Custom_robot.png)]
 
 # Usage 
 
@@ -54,3 +54,4 @@ roslaunch slam_project teleop.launch
 The grid map and 3D map can be found in by visualizating the rtabmp output : 
 ```
 rtabmap-databaseViewer ~/.ros/rtabmap.db
+[![map](/pics/Custom_env_map.png)]
